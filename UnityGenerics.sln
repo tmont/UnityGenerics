@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityGenerics", "UnityGenerics\UnityGenerics.csproj", "{CBB21172-EEE2-4CC7-B8CD-2D76CF3C498C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityGenerics.Tests", "UnityGenerics.Tests\UnityGenerics.Tests.csproj", "{25921285-D2D0-439D-A4F9-27D522E5797D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBB21172-EEE2-4CC7-B8CD-2D76CF3C498C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB21172-EEE2-4CC7-B8CD-2D76CF3C498C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB21172-EEE2-4CC7-B8CD-2D76CF3C498C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB21172-EEE2-4CC7-B8CD-2D76CF3C498C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25921285-D2D0-439D-A4F9-27D522E5797D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25921285-D2D0-439D-A4F9-27D522E5797D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25921285-D2D0-439D-A4F9-27D522E5797D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25921285-D2D0-439D-A4F9-27D522E5797D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
